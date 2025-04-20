@@ -1,0 +1,1 @@
+web: streamlit run alp_rep_crm.py
